@@ -1,0 +1,5 @@
+1.5 Evaporation
+
+Do we always need to heat or change pressure for changing the state of matter? Can you quote some examples from everyday life where change of state from liquid to vapour takes place without the liquid reaching the boiling point? Water, when left uncovered, slowly changes into vapour. Wet clothes dry up. What happens to water in the above two examples?
+
+We know that particles of matter are always moving and are never at rest. Ata given temperature in any gas, liquid or solid, there are particles with different amounts of kinetic energy. In the case of liquids, a small fraction of particles at the surface, having higher kinetic energy, is able to break away from the forces of attraction of other particles and gets converted into vapour. This phenomenon of change of liquid into vapours at any temperature below its boiling point is called evaporation.

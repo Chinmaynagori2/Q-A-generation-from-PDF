@@ -1,0 +1,25 @@
+1.4.2 EFFECT OF CHANGE OF PRESSURE
+
+We have already learnt that the difference in various states of matter is due to the difference in the distances between the constituent particles. What will happen when we start putting pressure and compress a gas
+
+enclosed in a cylinder? Will the particles come closer? Do you think that increasing or decreasing the pressure can change the state of matter?
+
+Fig. 1.8: By applying pressure, particles of matter can be brought close together
+
+Applying pressure and temperature can liquefy gases.
+
+Have you heard of solid carbon dioxide (CO,)? It is stored under high pressure. Solid CO, gets converted directly into gaseous state on decrease of pressure to 1 atmosphere* without coming into liquid state. This is the reason that solid carbon dioxide is also known as dry ice.
+
+Thus, we can say that pressure and temperature determine the state of a substance, whether it will be solid, liquid or gas.
+
+reducing
+
+atmosphere (atm) is a unit of measuring pressure exerted by a gas. The unit of pressure is Pascal (Pa): 1 atmosphere = 1.01 x 10° Pa. The pressure of air in atmosphere is called atmospheric pressure. The atmospheric pressure at sea level is 1 atmosphere, and is taken as the normal atmospheric pressure.
+
+1. Convert the following temperature to celsius scale:
+
+2. What is the physical state of water at: a. 250°C b. 100°C ?
+
+3. For any substance, why does the temperature remain constant during the change of state?
+
+4. Suggest a method to liquefy atmospheric gases.

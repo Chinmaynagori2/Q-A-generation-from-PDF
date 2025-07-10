@@ -1,0 +1,45 @@
+1.3.3 THE GASEOUS STATE
+
+Have you ever observed a balloon seller filling a large number of balloons from a single cylinder of gas? Enquire from him how many balloons is he able to fill from one cylinder. Ask him which gas does he have in the cylinder.
+
+Activity 1.11
+
+- Take three 100 mL syringes and close their nozzles by rubber corks, as shown in Fig.1.4.
+
+- Remove the pistons from all the syringes.
+
+- Leaving one syringe untouched, fill water in the second and pieces of chalk in the third.
+
+- Insert the pistons back into the syringes. You may apply some vaseline on the pistons before inserting them into the syringes for their smooth movement.
+
+- Now, try to compress the content by pushing the piston in each syringe.
+
+° What do you observe? In which case was the piston easily pushed in?
+
+° What do you infer from your observations?
+
+We have observed that gases are highly compressible as compared to solids and liquids. The liquefied petroleum gas (LPG) cylinder that we get in our home for cooking or the oxygen supplied to hospitals in cylinders is compressed gas. Compressed natural gas (CNG) is used as fuel these days in vehicles. Due to its high compressibility, large volumes of a gas can be compressed into a small cylinder and transported easily.
+
+We come to know of what is being cooked in the kitchen without even entering there, by the smell that reaches our nostrils. How does this smell reach us? The particles of the aroma of food mix with the particles of air spread from the kitchen, reach us and even farther away. The smell of hot cooked food reaches us in seconds; compare this with the rate of diffusion of solids and liquids. Due to high speed of particles and large space between them, gases show the property of diffusing very fast into other gases.
+
+In the gaseous state, the particles move about randomly at high speed. Due to this random movement, the particles hit each other and also the walls of the container. The pressure exerted by the gas is because of this force exerted by gas particles per unit area on the walls of the container.
+
+Fig.1.5: a, b and c show the magnified schematic pictures of the three states of matter. The motion of the particles can be seen and compared in the three states of matter.
+
+1. The mass per unit volume of a substance is called density. (density = mass/volume). Arrange the following in order of increasing density — air, exhaust from chimneys, honey, water, chalk, cotton and iron.
+
+2. (a) Tabulate the differences in the characterisitcs of states of matter.
+
+(b) Comment upon the following: rigidity, compressibility, fluidity, filling a gas container, shape, kinetic energy and density.
+
+3. Give reasons (a) A gas fills completely the
+
+vessel in which it is kept.
+
+(b) Agas exerts pressure on the walls of the container.
+
+(c) A wooden table should be called a solid.
+
+(d) Wecan easily move our hand in air but to do the same through a solid block of wood we need a karate expert.
+
+4. Liquids generally have lower density as compared to solids. But you must have observed that ice floats on water. Find out why.
