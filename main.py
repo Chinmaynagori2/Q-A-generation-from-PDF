@@ -28,8 +28,9 @@ print("ocr text loaded from pdf:", len(data), "elements")
 
 # Convert the list of Document objects in 'data' to a DataFrame
 df = pd.DataFrame([{"page_content": doc.page_content, **doc.metadata} for doc in data])
-# filer out rows with uncategorized text or titles that don't match the expected format
+# filer out rows with uncategorized text.
 df = df[df["category"] != "UncategorizedText"]
+# remove the "Title" where is does not contain an actual heading(in NCERT, it is like "1.1.2 Heading") or "Activity". Because it is most likely the text from image or Footer or Header.
 df = df[(df["category"] != "Title") | (df["page_content"].str.strip().str.match(r"^(Activity|\d+(\.\d+)*)"))]
 # filter out narrative text that is too short(possibly just the text in a figure or page number)
 clean_df1 = df[~((df['category'] == "NarrativeText") & (df['page_content'].str.len() <= 2))]
